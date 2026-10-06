@@ -1,26 +1,32 @@
-# Kiosk-Manager-World-Download
-Download der Testversionen von Kiosk-Manager World (Windows)
+# Kiosk Days – Download
+Download der Testversionen von **Kiosk Days** (vormals „Kiosk-Manager World“), Windows
 
-## Aktuell: Testversion vom 06.10.2026
+## Aktuell: Testversion vom 06.10.2026 (Update am Mittag)
 
 **Download:** [Kiosk-Manager-World.zip](https://github.com/mwarlich-hub/Kiosk-Manager-World-Download/raw/main/Kiosk-Manager-World.zip) (Windows, 64 Bit, ca. 55 MB)
 
 Ältere Testversionen: unter „Releases“ rechts.
 
-### Neu seit der letzten Testversion
-- **Kassentresen-Fehler behoben:** Stand der Kassentresen mit der Front nach vorn direkt an der Rückwand, kam man nicht mehr dahinter – und damit weder an den Computer noch an „Tag starten“. Das lässt sich nicht mehr so aufstellen, und ein schon so verbauter Tresen wird beim Laden automatisch umgestellt.
-- **„Kiosk einrichten“ jetzt auch im Pausemenü (Esc)** – Möbel umstellen geht damit von überall, auch ohne an den Computer zu kommen.
-- **Kundschaft kommt nicht mehr nach Ladenschluss:** Kunden planen ihren Weg so, dass sie zwischen 8 und 20 Uhr am Kiosk ankommen. Morgens ist dafür ab 8 Uhr Betrieb, und Abholer von Aufträgen kommen zur angesagten Uhrzeit.
-- **Englische Version:** Sprache in den Einstellungen umschaltbar (Sprache / Language).
-- **Test: feinere Spielfigur** – in den Einstellungen unter „Feine Spielfigur (Test)“ einschaltbar, standardmäßig aus.
+### Neu seit der Testversion von heute Morgen
+- **Neuer Name: Kiosk Days.** Die Datei heißt jetzt `Kiosk-Days.exe` – dein Spielstand bleibt erhalten.
+- **Kein Sofort-Bankrott mehr:** Reicht das Geld abends nicht für Lohn, Miete und Kreditrate, wird nichts abgebucht, sondern gemahnt – das Offene ist am nächsten Abend wieder fällig. 1. Mahnung mit Gebühr, 2. Mahnung kostet Ruf und sperrt neue Kredite, bei der 3. wird gepfändet.
+- **Vorwarnung:** Die Übersicht (I) zeigt „Heute Abend fällig“ (gelb, wenn es knapp wird, rot, wenn es nicht reicht). Ab 16 Uhr warnt ein Zettel, morgens erinnert einer an eine offene Mahnung.
+- **Handbuch-Kapitel „Lizenzen“** (F1).
+
+### Seit der Testversion vom 04.10.
+- **Kassentresen-Fehler behoben:** Ein Tresen mit der Front nach vorn direkt an der Rückwand ließ sich nicht mehr erreichen. Das geht jetzt nicht mehr, und ein schon so verbauter Tresen wird beim Laden umgestellt.
+- **„Kiosk einrichten“ auch im Pausemenü (Esc).**
+- **Kundschaft kommt nicht mehr nach Ladenschluss** – sie kommt zwischen 8 und 20 Uhr an, Abholer zur angesagten Uhrzeit.
+- **Englische Version:** in den Einstellungen umschaltbar (Sprache / Language).
+- **Test: feinere Spielfigur** – in den Einstellungen unter „Feine Spielfigur (Test)“, standardmäßig aus.
 
 ### So startest du das Spiel (nur Windows, 64 Bit)
 1. ZIP entpacken (Rechtsklick → „Alle extrahieren…“).
-2. `Kiosk-Manager.exe` doppelklicken – keine Installation nötig. Eine ältere Version einfach durch die neue Datei ersetzen.
+2. `Kiosk-Days.exe` doppelklicken – keine Installation nötig. Eine ältere `Kiosk-Manager.exe` kannst du löschen.
 3. Windows zeigt beim ersten Start vermutlich „Der Computer wurde durch Windows geschützt“,
    weil das Spiel nicht signiert ist: auf **Weitere Informationen** → **Trotzdem ausführen** klicken.
 
 Der Spielstand wird automatisch gespeichert unter
-`%APPDATA%\Godot\app_userdata\Kiosk-Manager World\` – ein Spielstand der alten Testversion läuft weiter.
+`%APPDATA%\Godot\app_userdata\Kiosk-Manager World\` – Spielstände älterer Testversionen laufen weiter.
 
 Viel Spaß beim Testen – Feedback, Fehler und Ideen bitte direkt an Michael!
