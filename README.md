@@ -1,14 +1,14 @@
 # Kiosk Days – Download
 Download der Testversionen von **Kiosk Days** (vormals „Kiosk-Manager World“), Windows
 
-## Aktuell: Version 0.1.0 vom 10.10.2026
+## Aktuell: Version 0.1.0 vom 11.10.2026
 
 **Download:** [Kiosk-Manager-World.zip](https://github.com/mwarlich-hub/Kiosk-Manager-World-Download/raw/main/Kiosk-Manager-World.zip) (Windows, 64 Bit, ca. 55 MB)
 
 Ältere Testversionen: unter „Releases“ rechts.
 
 ### Neu seit der Testversion vom 06.10. (Mittag)
-- **Erste Version mit Versionsnummer: 0.1.0.** Am Spiel selbst hat sich nichts geändert.
+- **Erste Version mit Versionsnummer: 0.1.0** – sie steht im Pausemenü (Esc) unten rechts. Sonst hat sich am Spiel nichts geändert.
 - **Eigenes Programm-Icon:** `Kiosk-Days.exe` zeigt jetzt im Explorer und in der Taskleiste den Kiosk statt des Godot-Logos. In den Dateieigenschaften stehen „Kiosk Days“ und die Version.
 
 ### Seit der Testversion vom 06.10. (Morgen)
